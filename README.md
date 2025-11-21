@@ -1,4 +1,4 @@
-# Individual-s_Annual_Income_Classification_Machine_Learning
+# Annual_Income_Classification_Machine_Learning
 This project estimates whether an individual's annual income exceeds $50,000
 using various variables from a census dataset. This estimate is useful for
 demographic study and economic research, as it can shed light on the factors
